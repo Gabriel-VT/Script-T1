@@ -1,5 +1,5 @@
 const QRCode = require('qrcode')
-const img = "https://www.google.com.br";
+const img = "";
 
 QRCode.toDataURL(img, {
     color: {
